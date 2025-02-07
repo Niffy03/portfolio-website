@@ -1,4 +1,4 @@
-/*
+
 
 $(window).on('scroll',function() 
 {
@@ -15,7 +15,7 @@ $(document).ready(function() {
     strings: ['Designer','Developer','Freelancer'],
     typeSpeed: 100,
     loop:true
-  });*/
+  })});
 
   $('.owl-carousel').owlCarousel({
     loop:true,
